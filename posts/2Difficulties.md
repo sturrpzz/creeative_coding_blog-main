@@ -5,11 +5,15 @@ abstract: Problems I faced with my codes and how I resolved them.
 disable_html_sanitization: true
 ---
 
+<iframe width="400" height="442" src="https://editor.p5js.org/rios/full/htp6tXgTh"></iframe>
+
 # Lack of knowledge on JavaScript
 
-<iframe width="400" height="442" src="https://editor.p5js.org/rios/sketches/htp6tXgTh"></iframe>
+Similarly to Assignment 1, I was very ambitious with my ideas, only to realize I did not have enough JavaScript knowledge to execute them. It was the process of a lot of trials and errors, and a lot of frustration, but at the same time, these experiences gave me so much more insight on JavaScript.
 
-Similarly to Assignment 1, I was very ambitious with my ideas, only to realize I did not have enough JavaScript knowledge to execute them. It was the process of a lot of trials and errors, and a lot of frustration, but at the same time, these experiences gave me so much more insight on JavaScript
+# Struggle to decide on an idea
+
+Something that took a lot of my time was deciding on which idea to execute, because I had so many ideas and I did not know which one would be practical. The moment I decided on one, everything else went quite smoothly.
 
 # Mental health struggles
 

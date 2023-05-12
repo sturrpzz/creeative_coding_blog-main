@@ -4,11 +4,11 @@ import blog, { ga, redirects, h } from "blog";
 
 blog({
   title: "Assignment 2 Blog",
-  description: "A rundown of my experience with Assignment 2.",
+  description: "Generative Art is so easy and difficult at the same time!",
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "./images/307131957_3126121201032622_7182492060630406804_n.jpg",
+  avatar: "./images/20230510_175008.jpg",
   avatarClass: "rounded-full",
   author: "Alice Vu",
 
