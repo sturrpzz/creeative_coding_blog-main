@@ -3,8 +3,8 @@
 import blog, { ga, redirects, h } from "blog";
 
 blog({
-  title: "Assignment 2 Blog",
-  description: "Generative Art is so easy and difficult at the same time!",
+  title: "Assignment 3 Blog",
+  description: "Portraying a memorable experience with a website.",
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,

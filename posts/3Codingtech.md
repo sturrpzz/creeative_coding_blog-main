@@ -15,6 +15,4 @@ To be honest, I know that I have learnt a lot more since the first assignment an
 
 Declaring variable shorthand makes my code looks more concise.
 
-<iframe width="400" height="442" src="https://editor.p5js.org/sturrpzz/full/pwyb3lvwi"></iframe>
-
-### Creating flowers across the canvas by clicking on the canvas
+# Using classes
