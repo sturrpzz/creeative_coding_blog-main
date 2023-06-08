@@ -1,5 +1,5 @@
 ---
-title: Coding Techniques
+title: Coding Techniques.
 publish_date: 2023-06-07
 abstract: Coding techniques I used in my sketch.
 disable_html_sanitization: true

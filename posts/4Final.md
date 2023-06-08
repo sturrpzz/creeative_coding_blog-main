@@ -1,7 +1,7 @@
 ---
-title: Final Project
+title: Final Project.
 publish_date: 2023-06-07
-abstract: My final sketch.
+abstract: My final submission.
 disable_html_sanitization: true
 ---
 [Creative Coding - Mycelial Creative Coding](https://creative-coding-at3.deno.dev)
