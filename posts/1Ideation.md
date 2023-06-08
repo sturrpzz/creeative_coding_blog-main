@@ -32,6 +32,16 @@ For the first project, I want to make an openable window and a laptop to interac
 
 Websites that helped me a lot with this project are [Image Comparison Slider Tutorial by CodingNepal](https://youtu.be/7O3rEaZ_iUU), [Generative Art with Vanilla JavaScript by Franks laboratory](https://www.youtube.com/watch?v=0v4_Dw0K8pw&t=79s) and [Sketching with HTML5 Canvas and “Brush Images”](http://tricedesigns.com/sketching-with-html5-canvas-and-brush-images/).
 
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/7O3rEaZ_iUU"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 For my second project, I created three different smaller projects to describe three different experiences of mine. My website is basically a canvas, which allows the user to interact with different brushes and create their own piece of art, just like how the LED created art in front of my eyes:
 o The first project – called “Laser beam” - portrays the lights of different colours fading in and out of the darkness. It was the physical representation of what I saw in the performance. The lights were of different colours and sizes and moved so smoothly like a paintbrush. There are trails of light fading after the laser beams, and after the trail fades out on the canvas, you can see a faint afterimage, portraying the afterimage I saw after seeing the bright beams on a completely dark background.
 o The second project – called “Normal canvas” – is meant to portray the mental images that I associated with as I witnessed the work of art. It was not to fade away, but to be stuck in my mind, hence the reason why the brush strokes in this project stayed instead of fading away like the first project. The titles for the buttons are inverted as if these images were being projected from my mind.

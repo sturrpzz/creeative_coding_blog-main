@@ -8,7 +8,7 @@ blog({
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "./images/20230510_175008.jpg",
+  avatar: "./images/cat.jpg",
   avatarClass: "rounded-full",
   author: "Alice Vu",
 

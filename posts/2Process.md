@@ -60,6 +60,9 @@ function laptopDefault() {
 }
 ```
 
+A problem that is unresolved of this website is how it operates differently on different browsers. For me, using Google Chrome requires me to zoom out to 67%, and the website works as intended, however, for my friend, using Firefox requires them to zoom out to 50%, and there is a white dot following the slider. I'm not sure how to fix this problem yet.
+
+
 # Second project
 
 ## Laser beam and normal canas
@@ -96,14 +99,19 @@ I watched a tutorial to create this brush, because it goes so well with the idea
 
 ## Plans on what to record:
 • The surroundings of my experience
+
 • My reactions when I’m in the experience
+
 • Coding and drawing process
 
 ## Difficulties
 
 • This was probably the most difficult part for me, since I’m generally very awkward in front of cameras, and I have no idea what to include in my video.
+
 • My room is very small, and I had really little space to put my phone, so a lot of the time the camera is too awkwardly close to the laptop screen or my face. However, I needed to record in my room because it is the only place I feel truly comfortable.
+
 • My experience is supposed to be relaxing, but when I’m relaxed, my face looks extremely expressionless. I took a look at the video of me in that experience and it was literally me having one expression throughout the whole video ): 
+
 • I tried, but have no idea how to record my reactions when I code. When I successfully debug my code, I just awkwardly looked at the camera and gave a thumbs up LOL
 
 
