@@ -12,4 +12,6 @@ Please allow sound and zoom out until the website looks like this.
 
 [GitHub repository](https://github.com/sturrpzz/creative-coding-AT3)
 
+[Link to video on Youtube](https://www.youtube.com/watch?v=X94CZOvqPho), in case the embed doesn't work for any reason.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X94CZOvqPho" allowfullscreen></iframe>
